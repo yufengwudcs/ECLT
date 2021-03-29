@@ -12,6 +12,12 @@ For background, read the following books:
 # Build ECLT
 Building ECLT should be very easy. First decompress the code and type "make" to build the executable (under the main source directory). You may need to do "chmod" to make the executable have permission to run on your platform. That should be it!
 
+Now do a simple test. Download test-data.dat and put it in the same directory as ECLT. Then do:
+
+./ECLT test-data.dat
+
+You should see the code now produces some output.
+
 # How to prepare input, run and get the results?
 
 ECLT takes one input file, which contains the DNA sequences. Here is an example: 
