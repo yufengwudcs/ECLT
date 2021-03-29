@@ -14,14 +14,23 @@ For background, read the following books:
 ECLT takes one input file, which contains the DNA sequences. Here is an example: 
 
 0.0  0.2  0.4  0.6 0.8
+
 00010
+
 00010
+
 00010
+
 00000
+
 00000
+
 01100
+
 10000
+
 10001
+
 
 First line: a list of positions (integer or fractions), showing the genomic positions of the sites. Right now, ECLT does not use this information, but can be useful in the future extensions.
 
