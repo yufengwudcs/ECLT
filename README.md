@@ -9,6 +9,9 @@ For background, read the following books:
 
 [2] J. Wakeley. Coalescent Theory: An Introduction. Roberts and Company Publishers, Greenwood Village, CO., 2008.
 
+# Build ECLT
+Building ECLT should be very easy. First decompress the code and type "make" to build the executable (under the main source directory). You may need to do "chmod" to make the executable have permission to run on your platform. That should be it!
+
 # How to prepare input, run and get the results?
 
 ECLT takes one input file, which contains the DNA sequences. Here is an example: 
